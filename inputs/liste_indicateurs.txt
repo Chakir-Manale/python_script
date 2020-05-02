@@ -1,0 +1,12 @@
+API_NE.IMP.GNFS.CD_DS2_fr_excel_v2_1018289:Importations de biens et de services ($ US courants)
+API_NE.EXP.GNFS.KD_DS2_fr_excel_v2_1024652:Exportations de biens et de services ($ US constants de 2010)
+API_NE.IMP.GNFS.ZS_DS2_fr_excel_v2_1002434:Importations de biens et de services (% du PIB)
+API_CM.MKT.LCAP.GD.ZS_DS2_fr_excel_v2_1006397:Capitalisation boursière des entreprises intérieures cotées (% du PIB)
+API_FS.AST.PRVT.GD.ZS_DS2_fr_excel_v2_1003513:Crédit intérieur fourni au secteur privé (% du PIB)
+API_GB.XPD.RSDV.GD.ZS_DS2_fr_excel_v2_1006740:Dépenses en recherche et développement (% du PIB)
+API_IP.PAT.RESD_DS2_fr_excel_v2_1019137:Demandes de brevet, résidents
+API_IP.TMK.NRCT_DS2_fr_excel_v2_1010842:Nombre de demandes de dépôt de marques, non-résidents
+API_NE.EXP.GNFS.CD_DS2_fr_excel_v2_1002818:Exportations de biens et de services ($ US courants)
+API_SL.TLF.ADVN.ZS_DS2_fr_excel_v2_1030945:Population active avec un niveau d’études supérieur (% de la population active totale)
+DB_LIVE:Coût unitaire de main d’œuvre
+API_NE.IMP.GNFS.KD_DS2_fr_excel_v2_1021766:Importations de biens et de services ($ US constants de 2010)
